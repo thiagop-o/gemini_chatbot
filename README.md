@@ -13,3 +13,4 @@ pip install -U google-generativeai
 <li> Substituir no codigo o campo "SUA_CHAVE_AQUI" pela Key obtida no site (passo 1)
 </ol>
 
+> Foi utilizado o Python 3.12
